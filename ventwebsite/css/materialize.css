@@ -113,7 +113,7 @@ hr {
  * 2. Correct the odd `em` font sizing in all browsers.
  */
 pre {
-  font-family: monospace, monospace;
+  font-family: 'Poppins', sans-serif;
   /* 1 */
   font-size: 1em;
   /* 2 */
@@ -168,7 +168,7 @@ strong {
 code,
 kbd,
 samp {
-  font-family: monospace, monospace;
+  font-family: 'Poppins', sans-serif;
   /* 1 */
   font-size: 1em;
   /* 2 */
@@ -259,7 +259,7 @@ input,
 optgroup,
 select,
 textarea {
-  font-family: sans-serif;
+  font-family: 'Poppins', sans-serif;
   /* 1 */
   font-size: 100%;
   /* 1 */
@@ -683,7 +683,7 @@ video.responsive-video {
   color: rgba(255, 255, 255, 0.7);
   vertical-align: top;
   display: inline-block;
-  font-family: 'Material Icons';
+  font-family: 'Poppins', sans-serif;
   font-weight: normal;
   font-style: normal;
   font-size: 25px;
